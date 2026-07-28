@@ -128,8 +128,3 @@ if query:
 else:
     st.info("اكتب أي رمز فوق - سيتم تحليله بـ 5 عوامل حقيقية من الشارت")
 
-
-streamlit
-yfinance
-pandas
-plotly
