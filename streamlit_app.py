@@ -1,8 +1,3 @@
-streamlit
-yfinance
-pandas
-plotly
-
 import streamlit as st
 import yfinance as yf
 import pandas as pd
@@ -133,3 +128,8 @@ if query:
 else:
     st.info("اكتب أي رمز فوق - سيتم تحليله بـ 5 عوامل حقيقية من الشارت")
 
+
+streamlit
+yfinance
+pandas
+plotly
